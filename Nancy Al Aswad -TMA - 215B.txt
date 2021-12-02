@@ -1,0 +1,276 @@
+﻿T215B: Communication and information technologies (II)
+
+
+01/12/2021
+
+
+
+
+─
+Nancy Al Aswad -2180385
+
+
+Arab Open University 
+
+
+Jordan
+
+
+
+
+
+
+
+
+
+
+ Question ( 1 ) : 
+============
+As brief description of VPN  we can say that the Virtual Private Network (VPN) known as the way to simulate a private network over public net- work,we called it “Virtual”  for using  virtual connections in it , actually it is a temporary connections without real physical presence,and with Secure virtual connections which created between two networks or between  two machines, a machine and a network.
+
+
+
+
+Actually the VPN got many benefits, the most popular are two key benefits which are: 
+·        
+* Security: that helping protect personal information when send from and received by your device
+
+
+* Privacy: hiding things like your location,IP address to keep you from being tracked by internet browsers, internet service providers (ISPs), and others.
+
+
+But we also got many other benefits  such as :
+
+*  Escape data-throttling: With a VPN your data will be free from the prying eyes of ISPs and others.
+* Access region-blocked services like Netflix: the VPN can change your IP address to make a content provider think you’re browsing in another location or region that allows access.
+*   Avoid censorship when traveling abroad: Some VPNs may support you to bypass geographical restrictions, for example, some countries restrict or forbid access to certain websites.
+
+
+* Reduce support costs: the use of VPN can support business to lower the cost of maintaining servers, by using third-party service providers to support them .
+
+
+* Provide network scalability: When organizations grow, the costs of building a dedicated private network which VPNs allow businesses to give remote and international locations in particular better reach and service quality.
+
+
+* Avoid bandwidth-throttling: the VPN can thwart the sluggishness by encrypting your device’s internet traffic and that prevents anyone on the same network from seeing the content of your web traffic.
+
+
+
+
+Although VPNS offer many benefits, But as everything in life the VPN  also got Limitations such as 
+
+
+* A VPN connection  does not ensure quality of service. 
+
+
+* VPNS over the Internet can easily suffer from latency, fragmentation, traffic congestion, and dropped packets. 
+
+
+* Sometimes  VPN connections have  a lack of dedicated bandwidth between business sites because of the volatility of the Internet. 
+
+
+* A VPN connection  with huge all traffic got significantly slow down because capacity is greater than the highway (network or physical) 
+
+
+
+
+And when we understand these limitations and need to  address major issues when correctly Installing and productively using VPNS, we need to  create and  design effective VPN policies and take some of the aspects of design and planning of a VPN policy include such as : 
+
+
+ • Define mechanisms for providing remote technical support about the VPN telecommuters 
+
+
+ • Define how VPN can manage  interfaces, and whom Exploring complexities of patch management onVPN
+
+
+ • Apply strong  (authorization) access control with restrictions on all VPN connections.
+
+
+• Depending on the advantage and disadvantage of software and hardware VPN solutions
+
+
+ Question ( 2 ) : 
+============
+1 ) . The readable Original PlainText  is  p ≡ c + 𝐾’mod 26
+
+
+2 ) . Table with details required 
+
+
+Cipher text
+	O
+	G
+	T
+	J
+	Q
+	P
+	P
+	B
+	Number Equivalent
+	14
+	6
+	19
+	9
+	16
+	15
+	15
+	1
+	Key
+	o
+	p
+	t
+	i
+	c
+	a
+	l
+	o
+	Number key equivalent
+	14
+	15
+	19
+	8
+	2
+	0
+	11
+	14
+	Number k’ equivalent
+K’ = 26 - k
+	12
+	11
+	7
+	18
+	24
+	26
+	15
+	12
+	Plain Number
+p ≡ c + 𝐾’mod 26
+	0
+	17
+	0
+	1
+	14
+	15
+	4
+	13
+	Plain text
+	a
+	r
+	a
+	b
+	o
+	p
+	e
+	n
+	   Question ( 3 ) : 
+============
+
+
+a ) . The given data :
+====================
+
+
+Similarity value = less than 5% in strictly differences
+
+
+Table shows differences of minutiae pairs for FP1, FP2 and FP3
+
+
+We got 15 minutiae pairs 
+
+
+
+
+. The Answer  :
+===============
+ For FP1,out of 15 we can take (10 )  pairs for similarity less than 5%, so we can say : 
+
+
+The FP1: Similarity = (10/15) x 100 = 66.67%
+
+
+ For FP2,out of 15 we can take (5 ) pairs for similarity less than 5%, so we can say : 
+
+
+The  FP2: Similarity = (5/15) x 100 = 33.33%
+
+
+ For  FP3,out of 15 we can take (9 ) pairs for similarity less than 5%, so we can say : 
+
+
+The FP3: Similarity = (9/15) x 100 = 60 %
+
+
+
+
+
+
+b ) Now, since the threshold is 65% , we need a similarity index of at least 61% for a match , So FP1 is a match.
+
+
+ But since FP2 and FP3 have similarity percentage  less than 61% , Sothey are not in match.
+
+
+c )  The  three reasons for non match can be :-
+       ==================================
+
+
+1. When a threshold is set too high, biometric data from the same person can appear not to match because of slight variations.
+
+
+2. Dust on fingers can cause a false non match.
+
+
+3. Hands can be too sweaty or too dry .
+
+
+4. Surface of skin; scars , cuts or any other skin conditions.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Study References : 
+==============
+
+
+1. .    
+https://books.google.jo/books?hl=ar&lr=&id=OuFQ3t7eF4IC&oi=fnd&pg=PR9&dq=Virtual+Private+Network+(VPN)&ots=hglXxADL-x&sig=SapUfF0fPj66kIJ35PEWWhw9m-4&redir_esc=y#v=onepage&q=Virtual%20Private%20Network%20(VPN)&f=false
+
+
+
+
+
+
+https://books.google.jo/books?id=JVcBEAAAQBAJ&pg=PA263&dq=aspects+of+design+and+planning+of+a+VPN+policy&hl=ar&sa=X&ved=2ahUKEwiYtoLum7v0AhWO_7sIHUU6Db4Q6AF6BAgKEAI#v=onepage&q=aspects%20of%20design%20and%20planning%20of%20a%20VPN%20policy&f=false
+-
+  
+
+
+
+The  What Are Effective VPN Policies?  reference
+
+https://books.google.jo/books?id=JVcBEAAAQBAJ&pg=PA263&dq=aspects+of+design+and+planning+of+a+VPN+policy&hl=ar&sa=X&ved=2ahUKEwjghb_Mn7v0AhU9g_0HHW8jBBYQ6AF6BAgIEAI#v=onepage&q&f=false
+
+
+  
+
+
+
+https://books.google.jo/books?id=JVcBEAAAQBAJ&pg=PA263&dq=aspects+of+design+and+planning+of+a+VPN+policy&hl=ar&sa=X&ved=2ahUKEwiYtoLum7v0AhWO_7sIHUU6Db4Q6AF6BAgKEAI#v=onepage&q&f=false
+
+
+What Are the Limitations of a VPN? 9 Although VPNS offer many benefits, you need to evaluate the very real and distinct limita- tions before you put a VPN in place. A VPN connection offers flexible secure communication options, but It does not ensure quality of service. A VPN link is dependent upon the stability, throughput, and availability of the ISP connection, as well as the intervening network connections between endpoints. VPNS over the Internet can easily suffer from latency, fragmentation, traffic congestion, and dropped packets. This also results in a lack of dedicated bandwidth between business sites because of the volatility of the Internet. Fragmentation occurs when a packet's size exceeds thmsize allowed on a segment of the network or Internet. The too-large packet is broken or frågmented into smaller packets that meet the size limit. Traffic congestion on a network is similar to rush hour traffic on most highways. During peak times, more traffic (packets or cars) attempts to join the artery (bandwidth on a wired or wireless device, or physical highway), which causes all traffic to significantly slow down because capacity is greater than the highway (network or physical) A Jas la aja 262 a VEN Fundamentals
