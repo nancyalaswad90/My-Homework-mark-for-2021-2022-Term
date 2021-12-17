@@ -18,3 +18,12 @@
 
 The excel sheet 
 > ![215b](https://user-images.githubusercontent.com/36210723/146160928-f978f210-c7d0-4956-b339-5dfcb67ef91f.png)
+
+.
+
+. ===========================================================================================================
+
+.
+
+
+> ![math](https://user-images.githubusercontent.com/36210723/146540305-999ded98-48ce-41ed-9bbd-91796da5e586.png)
