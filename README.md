@@ -10,7 +10,7 @@
 
 - [My Communication mark  ( 215B ) ](https://github.com/nancyalaswad90/My-Homework-mark-for-2021-2022-Term/blob/main/Nancy%20Al%20Aswad%20-TMA%20-%20215B.pdf)
 
-- [My Calculus mark ](https://github.com/nancyalaswad90/My-Homework-mark-for-2021-2022-Term/blob/main/Nancy%20Al%20Aswad%20-%20MST129%20TMA.pdf)
+- [My Calculus mark (129)](https://github.com/nancyalaswad90/My-Homework-mark-for-2021-2022-Term/blob/main/Nancy%20Al%20Aswad%20-%20MST129%20TMA.pdf)
 
 
 > ![mark](https://user-images.githubusercontent.com/36210723/146539698-6412a47c-abb7-4484-8b27-4ed47d870709.png)
@@ -29,7 +29,7 @@
 
 - [My Communication mark  ( 215B ) ](https://github.com/nancyalaswad90/My-Homework-mark-for-2021-2022-Term/blob/main/%5B2180385%5D%20Nancy%20Al-%20Aswed.xlsx)
 
-- [My Calculus mark ](https://github.com/nancyalaswad90/My-Homework-mark-for-2021-2022-Term/blob/main/MT129-TMA-2180385%20(4).xlsx)
+- [My Calculus mark (129) ](https://github.com/nancyalaswad90/My-Homework-mark-for-2021-2022-Term/blob/main/MT129-TMA-2180385%20(4).xlsx)
 
 
 .
